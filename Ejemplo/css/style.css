@@ -1,0 +1,48 @@
+body {
+    color: #333;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+   padding-top: 30%;
+   
+
+    
+}
+
+.container {
+   
+    width: 80%;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+    box-shadow: 15px 12px 23px 1px rgba(0, 0, 0, 0.75);
+    border-radius: 18px 18px 18px 18px;
+}
+
+.post {
+    padding: 1em;
+}
+
+.cabecera {
+    background: #33A;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    color: white;
+    font-size: 20px;
+    border-radius: 18px 18px 0px 0px;
+}
+
+.tagline {
+    font-size: medium;
+}
+
+.footer{
+
+    background: #333;
+    padding: 0.5em;
+    color:#DDD;
+    text-align: center;
+
+
+}
